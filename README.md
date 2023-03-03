@@ -1,8 +1,7 @@
 ![filthy-frank-rice-fields](https://user-images.githubusercontent.com/99243818/222695108-7e551ed3-2b3f-48f6-bd13-05eebecf3fe1.gif)
+---
 
-
-
-[![stats](https://github-readme-stats.vercel.app/api?username=Borteq2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=Borteq2&show_icons=true&theme=radical&count_private=true&include_all_commits=True&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borteq2&layout=compact&theme=radical&count_private=true&card_width=1000&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)

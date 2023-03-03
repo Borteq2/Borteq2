@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borteq2&layout=compact&theme=radical&count_private=true&card_width=1000&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-![Codewars](https://www.codewars.com/users/Borteq/badges/large)
+![Codewars](https://www.codewars.com/users/Borteq/badges/large) 
 ---
 
 ### Commonly used anguages and tools:
@@ -51,3 +51,6 @@
 ![dungeonsanddragons](https://img.shields.io/badge/-Dungeons_&_Dragons-090909?style=for-the-badge&logo=dungeonsanddragons)
 ![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=Arduino)
 ![Thingiverse](https://img.shields.io/badge/-Thingiverse-090909?style=for-the-badge&logo=Thingiverse)
+
+---
+[![GitHub Streak](https://streak-stats.demolab.com?user=Borteq2&theme=radical&date_format=j%20M%5B%20Y%5D&width=1000)](https://git.io/streak-stats)

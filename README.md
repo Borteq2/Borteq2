@@ -43,8 +43,8 @@
 ### Hobbies and relaxation:
 
 ![Skynet](https://img.shields.io/badge/-Skynet-090909?style=for-the-badge&logo=Skynet)
-![dungeonsanddragons](https://img.shields.io/badge/-Dungeons_&_Dragons-090909?style=for-the-badge&logo=dungeonsanddragons)
-![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=Arduino)
 ![SteamDeck](https://img.shields.io/badge/-SteamDeck-090909?style=for-the-badge&logo=SteamDeck)
 ![Oculus](https://img.shields.io/badge/-Oculus-090909?style=for-the-badge&logo=Oculus)
+![dungeonsanddragons](https://img.shields.io/badge/-Dungeons_&_Dragons-090909?style=for-the-badge&logo=dungeonsanddragons)
+![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=Arduino)
 ![Thingiverse](https://img.shields.io/badge/-Thingiverse-090909?style=for-the-badge&logo=Thingiverse)

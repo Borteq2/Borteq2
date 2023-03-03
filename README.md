@@ -1,3 +1,5 @@
+![gif](https://media.tenor.com/rtSkeXbx8X4AAAAd/filthy-frank-rice-fields.gif)
+
 [![stats](https://github-readme-stats.vercel.app/api?username=Borteq2&show_icons=true&theme=radical&count_private=true&include_all_commits=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats)
 ---
 

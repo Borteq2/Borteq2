@@ -1,4 +1,5 @@
 [![stats](https://github-readme-stats.vercel.app/api?username=Borteq2&show_icons=true&theme=radical&count_private=True)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Borteq2)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Borteq2/Borteq2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

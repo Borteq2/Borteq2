@@ -51,6 +51,10 @@
 ![dungeonsanddragons](https://img.shields.io/badge/-Dungeons_&_Dragons-090909?style=for-the-badge&logo=dungeonsanddragons)
 ![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=Arduino)
 ![Thingiverse](https://img.shields.io/badge/-Thingiverse-090909?style=for-the-badge&logo=Thingiverse)
+---
+### Contacts:
+[<img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram" />](https://t.me/borteq)
+&nbsp;
 
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=Borteq2&theme=radical&date_format=j%20M%5B%20Y%5D&width=1000)](https://git.io/streak-stats)
